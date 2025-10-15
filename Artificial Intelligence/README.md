@@ -114,3 +114,11 @@ python MarkovNgram_TextModels.py
 - All projects are standalone and text-based for portability.  
 - Config/corpus files define puzzle instances or training data; modify them to test new scenarios.  
 - No external data beyond the provided config/corpus files is required.  
+
+This project was completed as part of the Bachelor of Computer Science degree at the University of Waikato.  
+It is published here solely for educational and portfolio purposes, to showcase my skills in software development.  
+
+All code presented is my own work. Course-specific materials such as assignment descriptions or test data are not included to respect university policies.  
+
+## Academic Integrity
+Portfolio-only; not intended for reuse in coursework. Removal on request.

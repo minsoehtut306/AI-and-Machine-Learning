@@ -5,7 +5,7 @@ Each lab builds on real-world datasets using scikit-learn and related libraries.
 
 ---
 
-## 🔍 Lab Overview
+## Lab Overview
 
 - **Lab 1 – k-Nearest Neighbours (kNN)**  
   Using the Wisconsin Breast Cancer dataset to classify tumour samples.  
@@ -45,3 +45,11 @@ Each lab builds on real-world datasets using scikit-learn and related libraries.
 - Labs demonstrate both supervised and unsupervised methods.  
 - Focus is on model training, evaluation, and comparison of algorithms.  
 - Each PDF includes dataset links, preprocessing steps, code, and results.  
+
+This project was completed as part of the Bachelor of Computer Science degree at the University of Waikato.  
+It is published here solely for educational and portfolio purposes, to showcase my skills in software development.  
+
+All code presented is my own work. Course-specific materials such as assignment descriptions or test data are not included to respect university policies.  
+
+## Academic Integrity
+Portfolio-only; not intended for reuse in coursework. Removal on request.
